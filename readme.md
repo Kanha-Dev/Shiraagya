@@ -116,6 +116,12 @@ This theme is fully compatible with Shopify's CMS features:
 
 ---
 
+## Live Demo
+
+[https://www.shriaagya.com](https://www.shriaagya.com)
+
+---
+
 ## Screenshots
 
 Below are some screenshots from the Shriaagya website.
