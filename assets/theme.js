@@ -3086,33 +3086,33 @@ var BlsRokanAdminLi = (function () {
             text = "Purchase Code deleted successfully!";
             break;
           default:
-            text = "Welcome to Rokan - Shopify Themes OS 2.0 🎉 ";
+            text = "Welcome to Shriaagya - Shopify Themes OS 2.0 🎉 ";
             break;
         }
         const t = document.createTextNode(text);
         const s = document.createTextNode(
-          "Follow these simple steps to use Rokan theme:"
+          "Follow these simple steps to use Shriaagya theme:"
         );
         const q = document.createTextNode(
-          "Step 1: Add Rokan theme file to your 'Online store' > 'Theme'."
+          "Step 1: Add Shriaagya theme file to your 'Online store' > 'Theme'."
         );
         const p = document.createTextNode("Step 2: Insert purchase code");
         const k = document.createTextNode("Step 3: Activate purchase code");
         const r = document.createTextNode("Recommend: Install ");
         const ec = document.createTextNode("EComposer Page Builder");
-        const fao = document.createTextNode(" - FREE Add-on for Rokan");
+        const fao = document.createTextNode(" - FREE Add-on for Shriaagya theme.");
         const wh = document.createTextNode(
           "Why you need EComposer Page Builder?"
         );
         const ad1 = document.createTextNode(
-          "- One more option to customize Rokan layouts."
+          "- One more option to customize Shriaagya layouts."
         );
         const ad2 = document.createTextNode(
           "- Provide another highly flexible editor."
         );
         const ad3 = document.createTextNode("- Especially, ");
         const ad3_3 = document.createTextNode(
-          " for Rokan users, we offer the "
+          " for Shriaagya users, we offer the "
         );
         const ad3_4 = document.createTextNode(" of this app ");
         const only = document.createTextNode("only");
@@ -3128,7 +3128,7 @@ var BlsRokanAdminLi = (function () {
         const x = document.createTextNode(
           "Go to 'Theme setting' > 'Purchase code action' and select 'Active purchase code'."
         );
-        const m = document.createTextNode("👉 Get Rokan purchase code");
+        const m = document.createTextNode("👉 Get Shriaagya purchase code");
         const ecbuy_content = document.createTextNode(
           "👉 Install EComposer Here"
         );

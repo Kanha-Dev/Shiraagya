@@ -1,11 +1,9 @@
 [
   {
     "name": "theme_info",
-    "theme_name": "Rokan",
+    "theme_name": "Shriaagya",
     "theme_version": "1.0.3",
-    "theme_author": "Bersky Theme",
-    "theme_documentation_url": "https://blueskytechco.gitbook.io/rokan-shopify",
-    "theme_support_url": "https:\/\/mageblueskytech.com\/osTicket\/"
+    "theme_author": "Kanha",
   },
   {
     "name": "t:settings_schema.purchase-code.name",
